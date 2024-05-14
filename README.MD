@@ -41,7 +41,7 @@ Utilizamos uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-2134944ef15249f2883187b2df26fd37)
 
 ## 🛠️ Instruções de execução
 
